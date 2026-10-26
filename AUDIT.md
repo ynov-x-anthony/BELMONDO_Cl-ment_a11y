@@ -6,6 +6,15 @@ Lance les 3 audits sur la page (`npm run dev`, puis ouvre-la dans Chrome) et
 colle ici un résumé de ce que chacun remonte :
 
 - **Lighthouse** (DevTools → onglet Lighthouse → catégorie Accessibility) :
+Scores Globaux
+Performances : 94 / 100 (Excellent, chargement très rapide : FCP à 0,9 s et LCP à 1,4 s).
+
+Accessibilité : 86 / 100 (Très bon, mais quelques améliorations à prévoir).
+
+Bonnes pratiques : 100 / 100 (Parfait).
+
+SEO : 82 / 100 (Correct, mais des erreurs bloquantes pour les moteurs de recherche).
+
 - **axe DevTools** (extension Chrome) :
 - **WAVE** (https://wave.webaim.org/, ou l'extension) :
 
