@@ -1,6 +1,6 @@
 .page { background: #ffffff; }
 h1 { color: #2a2a2a; }
-.subtitle { color: #aaaaaa; } /* trop clair : ~2.3:1 */
+.subtitle { color: #595959; } /* 7.00:1 */
 
 .card {
   border: 1px solid #eee;
@@ -8,13 +8,13 @@ h1 { color: #2a2a2a; }
   padding: 1.2rem;
   margin-bottom: 1rem;
 }
-.label { color: #999999; font-size: .85rem; } /* ~2.8:1 */
+.label { color: #666666; font-size: .85rem; } /* 5.74:1 */
 .value { color: #1a1a1a; font-weight: 600; }
-.hint { color: #bbbbbb; font-size: .9rem; } /* ~1.8:1 */
+.hint { color: #6b6b6b; font-size: .9rem; } /* 5.33:1 */
 
 .btn-primary {
-  background: #6fa8dc; /* bleu clair */
-  color: #ffffff;      /* texte blanc sur bleu clair : ~2.1:1 */
+  background: #2b6cb0; /* bleu plus soutenu */
+  color: #ffffff;      /* texte blanc sur bleu : 5.42:1 */
   border: none;
   padding: .6rem 1.1rem;
   border-radius: 6px;
