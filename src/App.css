@@ -1,12 +1,10 @@
-*:focus {
-    outline: none;
+:focus-visible {
+    outline: 3px solid #1a5fd0;
+    outline-offset: 2px;
 }
 
-/* Problème 2 : focus totalement invisible */
-
-.decoy {
-    position: absolute;
-    left: -1px;
+.form:focus {
+    outline: none;
 }
 
 .form {
